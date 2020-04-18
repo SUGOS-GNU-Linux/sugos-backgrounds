@@ -1,0 +1,14 @@
+Source: sugos-backgrounds
+Section: admin
+Priority: optional
+Maintainer: Reza Zulkarnain (SUGOS) <sugosdeveloper@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/SUGOS-GNU-Linux/sugos-backgrounds
+Vcs-Browser: https://github.com/SUGOS-GNU-Linux/sugos-backgrounds.git
+
+Package: sugos-backgrounds
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Paket Wallpaper Default SUGOS Linux.
+Wallpaper Desktop Bawaan untuk SUGOS Linux XFCE Edisi.
