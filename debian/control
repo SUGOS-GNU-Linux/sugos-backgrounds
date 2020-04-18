@@ -11,4 +11,4 @@ Package: sugos-backgrounds
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Paket Wallpaper Default SUGOS Linux.
-Wallpaper Desktop Bawaan untuk SUGOS Linux XFCE Edisi.
+ Wallpaper Desktop Bawaan untuk SUGOS Linux XFCE Edisi.
